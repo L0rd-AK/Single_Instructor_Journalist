@@ -1,18 +1,18 @@
+import { Outlet } from 'react-router-dom'
 import './App.css'
-import Banner from './components/banner/Banner'
-import Information from './components/lower-banner-section/Information'
+
 import Navbar from './components/navbar/Navbar'
+import Footer from './components/footer/Footer'
 
 function App() {
 
   return (
     <>
-      <Navbar></Navbar>
       <div className='max-w-7xl mx-auto'>
-        <Banner></Banner>
-        <Information></Information>
+        <Navbar />
+        <Outlet />
       </div>
-      
+        <Footer />
     </>
   )
 }

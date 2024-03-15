@@ -1,0 +1,26 @@
+[
+    {
+        "img":"https://i.ibb.co/GPbygdy/c1.jpg",
+        "title":"What is news?",
+        "description":"This course will guide you through the basic elements of professional journalism and the news values and ethics of covering real-world issues and events",
+        "price":"free",
+        "length":9000,
+        "reviews":189
+    },
+    {
+        "img":"https://i.ibb.co/qkPvXmM/c3.jpg",
+        "title":"How to be a Journalist - The Complete Guide to Journalism",
+        "description":"All you need to know to become a freelance journalist or staffer and get paid for what you write.",
+        "price":"$17.00",
+        "length":55200,
+        "reviews":12
+    },
+    {
+        "img":"https://i.ibb.co/SmmQ2k7/c2.jpg",
+        "title":"Journalism -TV Reporters, News Anchors Look Great on TV",
+        "description":"Journalism for Broadcast - You can appear poised, confident and authoritative on camera.",
+        "price":"$12.00",
+        "length":30000,
+        "reviews":18
+    }
+]

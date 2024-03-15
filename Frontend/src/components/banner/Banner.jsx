@@ -3,7 +3,7 @@ import { FaSearch } from "react-icons/fa";
 const Banner = () => {
     return (
         
-            <div className='flex lg:float-left flex-col-reverse gap-10 mb-20'>
+            <div className='flex lg:float-left lg:flex-row flex-col-reverse gap-10 mb-20'>
                 <div className='grid justify-center items-center'>
                     <div className='space-y-5 mx-5 lg:mx-0'>
                         <h3 className="text-[#FF630E] font-semibold text-lg">START LEARNING FROM HOME</h3>

@@ -4,8 +4,8 @@ import { LuBookOpenCheck } from "react-icons/lu";
 const CourseJourney = () => {
     return (
         <div className="">
-            <div className="mt-10">
-                <div className="flex flex-col lg:float-left gap-10 justify-center items-center">
+            <div className="mt-10 flex justify-center items-center">
+                <div className="flex justify-center items-center flex-col lg:flex-row lg:float-left gap-10">
                     <div className="flex flex-col justify-center items-center">
                         <h1 className="text-5xl text-[#FF630E] font-bold">1,200+</h1>
                         <p className="text-xl font-bold uppercase">Students Enrolled</p>
@@ -20,7 +20,7 @@ const CourseJourney = () => {
                     </div>
                 </div>
             </div>
-            <div className="flex lg:float-left flex-col gap-10 mt-10 mb-20">
+            <div className="flex lg:float-left lg:flex-row flex-col gap-10 mt-10 mb-20">
                 <div className=" flex float-left gap-5 justify-center items-center p-5 shadow-lg">
                     <div>
                         <FaLaptopFile className="text-5xl text-[#FF630E]" />
